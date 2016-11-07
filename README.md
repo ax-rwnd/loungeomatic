@@ -8,3 +8,9 @@ To allow people into your lounge, the owner sends an invitation to a friend by g
 Users connect to the frontend service to authenticate their visit against the backend. Then, they may visit their own lounge (or one of their friends' rooms) to play media or upload content.
 
 The upload process will work by giving the user a upload dialog to the backend, transcoding it to a lower bitrate and moving it to the user's storage. These files should then be exposed to the participants of the owner's lounge.
+
+## Frontend
+See https://github.com/ax-rwnd/lounge-frontseat
+
+## Backend
+See https://github.com/ax-rwnd/lounge-backseat
