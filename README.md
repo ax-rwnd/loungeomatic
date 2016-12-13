@@ -9,11 +9,11 @@ Users connect to the frontend service to authenticate their visit against the ba
 
 The upload process will work by giving the user a upload dialog to the backend, transcoding it to a lower bitrate and moving it to the user's storage. These files should then be exposed to the participants of the owner's lounge.
 
-## Frontend
+## Frontend *(frontend interface)*
 See https://github.com/ax-rwnd/lounge-frontseat
 
-## Backend
+## Backend *(api/backend)*
 See https://github.com/ax-rwnd/lounge-backseat
 
-## Showtime
+## Showtime *(streaming server)*
 See https://github.com/ax-rwnd/lounge-showtime
